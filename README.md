@@ -28,7 +28,7 @@ Nacer Laribi - Alias nuicer
 - Real-time apps (WebSocket)
 - Scripting (Bash + Python)
 - Linux Customization (Ricing, Themes)
-- CTF Player @ HTB 🧠
+-  AI Prompting (ChatGPT...)
 ```
 
 ---
